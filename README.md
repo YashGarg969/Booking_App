@@ -1,8 +1,8 @@
 # Booking App Backend
 
-#This project is created using java and springboot. It uses MySql database for storing the information.
-#This project is currently having 4 tables which deals with user registration(2 tables), train details(1 table), and Booking Details(1 table).
-#Referencing between the tables also exist among these tables.
+1. This project is created using java and springboot. It uses MySql database for storing the information.                                                                                                                                    
+2. This project is currently having 4 tables which deals with user registration(2 tables), train details(1 table), and booking details(1 table).
+3. Referencing between the tables also exist among these tables.
 
 # This project consists of 4 features:
 1. User Registration:- Through this,, user can be registered in the system
@@ -12,7 +12,7 @@
 
  # Some tasks that are missing:
  1. User Login
- 2. Getting Speicific Booking Details
+ 2. Getting Specific Booking Details
 
 # How To Use:
 1. Setup Java, maven in the system
@@ -20,7 +20,7 @@
 3. Install postman for running the api
 4. Change your local username and password of mysql and paste in "application.properties" file in the project folder
 
-# Reason for not able to accomplish remaining tasks:
-1. I was not able to spend sufficient time on this project due to some unforeseen circumstances. However, I quite liked the task.
+# Note:
+This project is under development.
 
-# Thanks
+# Thanks,
